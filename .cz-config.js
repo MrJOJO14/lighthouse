@@ -5,6 +5,7 @@
  */
 'use strict';
 
+correction de bug 
 module.exports = {
   allowBreakingChanges: ['core'],
   allowCustomScopes: true,
